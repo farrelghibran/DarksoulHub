@@ -1,6 +1,6 @@
 --[[
 
-  Script Develop by @Farrghii & @Greensoul
+  Script Develop by @Farrghii & @Greensoul8410
   Join Our Discord Server : https://discord.gg/TqJPQ7Cx9j
 
 ]]--
